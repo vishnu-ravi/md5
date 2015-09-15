@@ -1,0 +1,34 @@
+{
+  "name": "md5 JS",
+  "version": "1.0",
+  "title": "JavaScript MD5",
+  "description": "JavaScript MD5 implementation.",
+  "keywords": [
+    "javascript",
+    "md5"
+  ],
+  "homepage": "https://github.com/vishnu-ravi/md5",
+  "author": {
+    "name": "KRDS",
+    "url": "https://krds.com"
+  },
+  "maintainers": [
+    {
+      "name": "KRDS",
+      "url": "https://krds.com"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Vishnu",
+      "url": "https://github.com/vishnu-ravi"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vishnu-ravi/md5.git"
+  },
+  "bugs": "https://github.com/vishnu-ravi/md5/issues",
+  "license": "MIT",
+  "main": "md5.js"
+}
